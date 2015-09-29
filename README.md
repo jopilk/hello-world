@@ -1,5 +1,6 @@
 # hello-world
-My first repository used to learn GitHub
+My first repository used to learn GitHub.
+
 Editing this file in another branch called readme-edits.
 
 Now editing in the base branch.
